@@ -1,0 +1,20 @@
+h1, h2{
+    font-family: 'Tiro Gurmukhi', serifa;
+    color: #A4A4A4;
+}
+/*Posição  e cor Nav-Bar */
+nav.breadcrumb{
+    padding-top: 15px;
+    padding-left: 9px;
+}
+
+ul#muda-cor li a{
+    color: black;
+}
+
+/*Imagem do Card-image seção Profile*/
+.card-image{
+    width: 72%;
+    margin: 20px auto 20px auto;
+    top: 12px;
+}
